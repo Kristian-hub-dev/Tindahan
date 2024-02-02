@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Acqua di Gio",
+        "image": "1.png",
+        "price": 139.99
+    },
+    {
+        "name": "Sauvage Dior",
+        "image": "2.png",
+        "price": 100.55
+    },
+    {
+        "name": "Calvin Klein Eternity",
+        "image": "3.png",
+        "price": 103.99
+    },
+
+    {
+        "name": "Bleu de Chanel",
+        "image": "4.png",
+        "price": 178.99
+    },
+    {
+        "name": "AQVA Bulgarri",
+        "image": "5.png",
+        "price": 130.55
+    },
+    {
+        "name": "Versace EROS",
+        "image": "6.png",
+        "price": 119.99
+    },
+    {
+        "name": "Boss (Hugo Boss)",
+        "image": "7.png",
+        "price": 135.38
+    },
+    {
+        "name": "Ralph Lauren Polo Black",
+        "image": "8.png",
+        "price": 125.54
+    },
+    {
+        "name": "Dolce & Gabbana Light Blue",
+        "image": "9.png",
+        "price": 84.99
+    },
+    {
+        "name": "Ralph Lauren Polo Blue",
+        "image": "10.png",
+        "price": 124.99
+    },
+    {
+        "name": "Versace Dylan Blue",
+        "image": "11.png",
+        "price": 105.55
+    },
+    {
+        "name": "Nautica Blue Sai",
+        "image": "12.png",
+        "price": 124.99
+    }
+
+    
+
+
+]
